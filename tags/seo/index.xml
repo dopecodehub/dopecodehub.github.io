@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO on BenzHub</title>
+    <link>http://localhost/tags/seo/</link>
+    <description>Recent content in SEO on BenzHub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2021, Ben; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 05 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>meta標籤和搜尋引擎 | 前端基礎教學05</title>
+      <link>http://localhost/post/frontend-basic/5/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/post/frontend-basic/5/</guid>
+      <description>
+        
+          
+            meta標籤和搜尋引擎
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
